@@ -6,7 +6,7 @@ Tôi là một sinh viên ngành **Kỹ thuật Phần mềm** tại Đại họ
 - 🎮 **Hiện tại:** Đang xây dựng các dự án game 3D/2D bằng Unity, nghiên cứu tối ưu hóa tài nguyên và logic gameplay.
 - 🛠️ **Dự án cá nhân:** Từng thiết kế hệ thống và quản lý/tối ưu hóa server Minecraft (PaperMC/VPS) cho nhóm bạn chơi chung.
 - 🎨 **Sáng tạo:** Tự mày mò thiết kế pixel art, làm sprite và lên wireframe ý tưởng cho game.
-- 🎸 **Sở thích ngoài lề:** Chơi electric guitar và tìm hiểu phần cứng máy tính.
+- 🎸 **Sở thích ngoài lề:** Chơi electric guitar.
 
 ---
 
