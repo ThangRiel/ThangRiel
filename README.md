@@ -1,3 +1,5 @@
+##Hi, my name is Thang
+
 [![Play Git Commit Invaders](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTh5MmkyYnhvdDNsYnIwdHhnOWR5Z2V0a214Mzd1YmNjazA3Znk5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xXEzcNXV7MnAy4CfrJ/giphy.gif)](https://thangriel.github.io/git-commit-invaders/)
 
 ## 🔗 About Me
