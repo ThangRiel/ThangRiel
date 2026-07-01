@@ -6,7 +6,6 @@
 Tôi là một sinh viên ngành **Kỹ thuật Phần mềm** tại Đại học FPT TP.HCM, định hướng trở thành một **Game Developer** chuyên nghiệp. Hiện tại, tôi đang tập trung đào sâu vào phát triển game bằng **Unity Engine**, kết hợp với tư duy lập trình hệ thống backend và tối ưu hóa hiệu năng.
 
 - 🎮 **Hiện tại:** Đang xây dựng các dự án game 3D/2D bằng Unity, nghiên cứu tối ưu hóa tài nguyên và logic gameplay.
-- 🛠️ **Dự án cá nhân:** Từng thiết kế hệ thống và quản lý/tối ưu hóa server Minecraft (PaperMC/VPS) cho nhóm bạn chơi chung.
 - 🎨 **Sáng tạo:** Tự mày mò thiết kế pixel art, làm sprite và lên wireframe ý tưởng cho game.
 - 🎸 **Sở thích ngoài lề:** Chơi electric guitar.
 
